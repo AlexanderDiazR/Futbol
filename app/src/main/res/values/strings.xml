@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Futbol</string>
+    <string name="title_activity_player_info">PlayerInfo</string>
+    <string-array name="ElArray">
+        Nombre:
+        Juan
+        Apellido:
+        Perez
+        \nPosición:
+        Delantero
+        Estado:
+        On
+    </string-array>
+</resources>
